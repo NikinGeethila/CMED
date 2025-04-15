@@ -64,5 +64,5 @@ If you use CMED dataset in your research, please **cite** it properly (see below
 ## 🔗 Citation & Attribution
 If you use the **CMED dataset** in your research, please cite it as follows:
 
-Matharaarachchi, Nikin & Fermi Pasha, Muhammad  & Coleman, Sonya, & PengWong, Kah. (2025). CMED: A Child Micro-Expression Dataset. 10.48550/arXiv.2503.21690. 
+Matharaarachchi, Nikin & Pasha, Muhammad Fermi & Coleman, Sonya & PengWong, Kah. (2025). CMED: A Child Micro-Expression Dataset. 10.48550/arXiv.2503.21690. 
 
