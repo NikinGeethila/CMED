@@ -37,6 +37,7 @@ Unlike existing datasets that focus on **adults**, this dataset specifically tar
 1. Access the **CMED Dataset Request Form in this repository**:  
 2. Fill in your details:
    - Name & Institution
+   - Email Address (must use University or Company email address)
    - Research Purpose
    - Compliance with ethical guidelines
 
